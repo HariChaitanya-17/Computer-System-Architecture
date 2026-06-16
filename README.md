@@ -1,1 +1,1 @@
-Designed and implemented a complete 16-bit computer from first principles using HDL, building components from logic gates to a functional CPU and memory system.
+Built a complete 16-bit computer system from logic gates using HDL, implementing registers, ALU, CPU, memory and sequential circuits.
